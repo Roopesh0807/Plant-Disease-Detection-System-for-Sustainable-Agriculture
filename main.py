@@ -237,7 +237,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                         'https://extension.umn.edu/plant-diseases/apple-scab',
                         'https://www.planetnatural.com/pest-problem-solver/plant-disease/apple-scab/'
                     ],
-                    'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                    #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                     'buy_link': 'https://www.amazon.com/s?k=captan+fungicide'  # Amazon link
                 },      'Apple___Black_rot': {
                 'description': 'Black rot is a fungal disease causing fruit rot and leaf spots on apple trees.',
@@ -250,7 +250,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/black-rot-apple',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/black-rot/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=myclobutanil+fungicide'  # Amazon link
             },
             'Apple___Cedar_apple_rust': {
@@ -264,7 +264,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/cedar-apple-rust',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/cedar-apple-rust/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=triadimefon+fungicide'  # Amazon link
             },
             'Apple___healthy': {
@@ -292,7 +292,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/powdery-mildew',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/powdery-mildew/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=sulfur+fungicide'  # Amazon link
             },
             'Cherry_(including_sour)___healthy': {
@@ -313,7 +313,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/corn-leaf-spots',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/corn-leaf-spots/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=chlorothalonil+fungicide'  # Amazon link
             },
             'Corn_(maize)___Common_rust_': {
@@ -327,7 +327,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/common-rust-corn',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/common-rust/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=mancozeb+fungicide'  # Amazon link
             },
             'Corn_(maize)___Northern_Leaf_Blight': {
@@ -341,7 +341,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/northern-leaf-blight-corn',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/northern-leaf-blight/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=chlorothalonil+fungicide'  # Amazon link
             },
             'Corn_(maize)___healthy': {
@@ -362,7 +362,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/black-rot-grape',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/black-rot/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=mancozeb+fungicide'  # Amazon link
             },
             'Grape___Esca_(Black_Measles)': {
@@ -376,7 +376,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/esca-grape',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/esca/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=tebuconazole+fungicide'  # Amazon link
             },
             'Grape___Leaf_blight_(Isariopsis_Leaf_Spot)': {
@@ -390,7 +390,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/grape-leaf-blight',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/grape-leaf-blight/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=mancozeb+fungicide'  # Amazon link
             },
             'Grape___healthy': {
@@ -411,7 +411,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/citrus-greening',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/citrus-greening/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=citrus+greening+insecticide'  # Amazon link
             },
             'Peach___Bacterial_spot': {
@@ -425,7 +425,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/bacterial-spot-peach',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/bacterial-spot/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=copper+bactericide'  # Amazon link
             },
             'Peach___healthy': {
@@ -446,7 +446,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/bacterial-spot-pepper',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/bacterial-spot/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=copper+bactericide'  # Amazon link
             },
             'Pepper,_bell___healthy': {
@@ -467,7 +467,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/early-blight-potato',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/early-blight/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=chlorothalonil+fungicide'  # Amazon link
             },
             'Potato___Late_blight': {
@@ -481,7 +481,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/late-blight-potato',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/late-blight/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=chlorothalonil+fungicide'  # Amazon link
             },
             'Potato___healthy': {
@@ -516,7 +516,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/powdery-mildew',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/powdery-mildew/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=sulfur+fungicide'  # Amazon link
             },
             'Strawberry___Leaf_scorch': {
@@ -530,7 +530,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/strawberry-leaf-scorch',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/leaf-scorch/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=chlorothalonil+fungicide'  # Amazon link
             },
             'Strawberry___healthy': {
@@ -551,7 +551,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/bacterial-spot-tomato',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/bacterial-spot/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=copper+bactericide'  # Amazon link
             },
             'Tomato___Early_blight': {
@@ -565,7 +565,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/early-blight-tomato',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/early-blight/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=chlorothalonil+fungicide'  # Amazon link
             },
             'Tomato___Late_blight': {
@@ -579,7 +579,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/late-blight-tomato',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/late-blight/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=chlorothalonil+fungicide'  # Amazon link
             },
             'Tomato___Leaf_Mold': {
@@ -593,7 +593,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/tomato-leaf-mold',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/leaf-mold/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=chlorothalonil+fungicide'  # Amazon link
             },
             'Tomato___Septoria_leaf_spot': {
@@ -607,7 +607,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/septoria-leaf-spot-tomato',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/septoria-leaf-spot/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=chlorothalonil+fungicide'  # Amazon link
             },
             'Tomato___Spider_mites Two-spotted_spider_mite': {
@@ -621,7 +621,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/spider-mites',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/spider-mites/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=neem+oil'  # Amazon link
             },
             'Tomato___Target_Spot': {
@@ -635,7 +635,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/target-spot-tomato',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/target-spot/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=chlorothalonil+fungicide'  # Amazon link
             },
             'Tomato___Tomato_Yellow_Leaf_Curl_Virus': {
@@ -649,7 +649,7 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/tomato-yellow-leaf-curl-virus',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/tomato-yellow-leaf-curl/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=whitefly+insecticide'  # Amazon link
             },
             'Tomato___Tomato_mosaic_virus': {
@@ -663,14 +663,14 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                     'https://extension.umn.edu/plant-diseases/tomato-mosaic-virus',
                     'https://www.planetnatural.com/pest-problem-solver/plant-disease/tomato-mosaic-virus/'
                 ],
-                'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
+                #'pesticide_image': 'https://via.placeholder.com/300',  # Placeholder image
                 'buy_link': 'https://www.amazon.com/s?k=aphid+insecticide'  # Amazon link
             },
             'Tomato___healthy': {
                 'description': 'Your tomato plant is healthy! No treatment is needed.',
                 'treatment': [],
                 'links': [],
-                'pesticide_image': '',
+                #'pesticide_image': '',
                 'buy_link': ''
             }
         }
@@ -686,9 +686,9 @@ elif app_mode == "🔍 DISEASE RECOGNITION":
                 for link in treatments[disease]['links']:
                     st.markdown(f"[{link}]({link})")
                 
-                if treatments[disease]['pesticide_image']:
-                    st.subheader("🛒 Recommended Pesticide")
-                    st.image(treatments[disease]['pesticide_image'], caption='Recommended Pesticide', use_container_width=True)
+               # if treatments[disease]['pesticide_image']:
+                 #   st.subheader("🛒 Recommended Pesticide")
+                 #   st.image(treatments[disease]['pesticide_image'], caption='Recommended Pesticide', use_container_width=True)
                 
                 if treatments[disease]['buy_link']:
                     st.subheader("🛍️ Buy Pesticide")
